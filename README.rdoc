@@ -1,5 +1,5 @@
 = puppet-resolvconf module
 
-{<img src='https://codex.cegeka.be/jenkins/job/puppet-resolvconf/badge/icon' />}[https://codex.cegeka.be/jenkins/job/puppet-resolvconf/]
+{<img src='https://jenkins-iac.cegeka.be/job/puppet-resolvconf/badge/icon' />}[https://jenkins-iac.cegeka.be/job/puppet-resolvconf/]
 
 This is the resolvconf module.
